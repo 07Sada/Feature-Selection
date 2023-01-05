@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# folder
+Complete-Feature-Selection
+
+1. Feature Selection- Dropping Constant Features.html
+1. Feature Selection- Dropping Constant Features.pdf
+1.pdf
+boston.csv
+housing_data.csv
+santander.csv
